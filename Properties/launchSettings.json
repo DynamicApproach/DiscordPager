@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiscordTest": {
+      "commandName": "Project"
+    },
+    "DiscordTester": {
+      "commandName": "Project"
+    }
+  }
+}
